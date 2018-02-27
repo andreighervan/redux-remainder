@@ -10,6 +10,11 @@
     "react-scripts": "1.0.17",
     "redux": "^3.7.2"
   },
+  "devDependencies": {
+    "browserify": "*",
+    "gulp": "*",
+    "reactify": "*"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
